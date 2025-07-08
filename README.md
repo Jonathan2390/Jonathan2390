@@ -3,7 +3,7 @@
 <!--
 **Jonathan2390/Jonathan2390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Jonathan Aguirre Palacios
 
 ## 🚀 Sobre mí
 Soy **Data Scientist** apasionado por descubrir patrones, contar historias con datos y construir soluciones que generen impacto. Me encanta explorar datos, crear modelos de machine learning y automatizar procesos que ayuden a tomar mejores decisiones.
